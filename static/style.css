@@ -5,7 +5,7 @@ body{
 }
 
 .my-card2{
-    width: 250px;
+    width: 270px;
     height: 320px;
     background: rgba(30, 27, 27);
     position: relative;
@@ -23,7 +23,7 @@ body{
 }
 
 .my-card1{
-    width: 250px;
+    width: 270px;
     height: 320px;
     background: rgba(30, 27, 27);
     position: relative;
@@ -53,6 +53,10 @@ body{
 }
 
 .picture{
-    width: 170px;
-    height: 200px;
+    width: 180px;
+    height: 170px;
+    border-radius: 4px;
+    position: absolute;
+    top: 62px; 
+    left: 43px;
 }
